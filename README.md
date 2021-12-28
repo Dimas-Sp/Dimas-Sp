@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Dimas-Sp
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning API and laravel
+- - 📫 How to reach me ...
 <!-- - 💞️ I’m looking to collaborate on ... -->
-- 📫 How to reach me ...
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dimas-Sp)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
