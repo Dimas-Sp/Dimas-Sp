@@ -5,7 +5,7 @@
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dimas-Sp&count_private=true&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimas-Sp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Dimas-Sp/Dimas-Sp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
