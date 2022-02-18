@@ -4,7 +4,7 @@
 - - 📫 How to reach me ...
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dimas-Sp&count_private=true&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dimas-Sp&count_private=true&show_icons=true&theme=radical&layout=compact)
 
 <!---
 Dimas-Sp/Dimas-Sp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
